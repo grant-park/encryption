@@ -1,4 +1,4 @@
 encryption
 ==========
 
-Using a substitution cipher to encode and decode messages
+Uses a substitution cipher to encode and decode messages with an integer key.
